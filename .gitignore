@@ -1,0 +1,5 @@
+.vscode/launch.json
+dist/
+build/
+vmc.spec
+__pycache__/
