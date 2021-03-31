@@ -1,7 +1,9 @@
 # ValheimMapCombiner
 Sync explored areas and map pins across up to ten character saves at a time. Make sure the game is closed before running. A backup of your original save files is made when you hit submit, they will be in the same location as the character files you loaded in.
 
-Options:
+![Valheim Map Combiner](https://github.com/SixPraxis/ValheimMapCombiner/blob/master/images/vmcCapture.png)
+
+### Options:
 
 __World ID__ - REQUIRED. Hit the Find Common IDs button to automatically find the worlds that are in common across all selected save files.
 
