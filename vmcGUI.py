@@ -29,7 +29,7 @@ keyArray = ['input1Key', 'input2Key', 'input3Key', 'input4Key',
     'input9Key', 'input10Key']
 
 def startGUI():
-    window = gui.Window(title, layout, margins=(10,10), finalize=True)
+    window = gui.Window(title + ' ' + version, layout, margins=(10,10), finalize=True)
     saves = []
 
     while True:
