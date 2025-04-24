@@ -1,3 +1,6 @@
+# DEPRECATED
+### At the time this was made, Valheim was not syncing maps between players and this was a way to get that done. Map syncing has since been added to the game.
+
 # ValheimMapCombiner
 Sync explored areas and map pins across up to ten character saves at a time. Make sure the game is closed before running. A backup of your original save files is made when you hit submit, they will be in the same location as the character files you loaded in.
 
